@@ -94,7 +94,3 @@ For iterative development use the Chrome Extension "Reload" button after edits.
 4. Upload zip to the Chrome Web Store dashboard → publish.
 
 ---
-
-## License
-
-MIT © 2024 dotpush contributors 
