@@ -4,7 +4,7 @@
 
 ---
 
-## What does it do?
+## What does it do???
 
 1. **Detects when you are on a LeetCode problem page.**  
    The toolbar icon lights up to show the extension is ready.
