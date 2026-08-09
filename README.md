@@ -74,7 +74,6 @@ For iterative development use the Chrome Extension "Reload" button after edits.
 * **Minimum OAuth scope** – only `public_repo` is requested. Private repos are untouched.
 * **Token stored by Chrome** – saved via `chrome.storage.sync`, encrypted by the browser and sync'd with your profile (switch to `storage.local` if you prefer local-only).
 
----
 
 ## Coming next
 
