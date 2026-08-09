@@ -13,7 +13,6 @@
    Subsequent pushes update the file instead of creating duplicates.
 5. **Works with minimal GitHub permissions** via Device-Flow OAuth – you never paste a personal access token.
 
----
 
 ## Quick install (for users)
 
