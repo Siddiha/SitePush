@@ -67,7 +67,6 @@ $ cd dotpush/leetcode-sync
 For iterative development use the Chrome Extension "Reload" button after edits.
 
 
-
 ## Security & Privacy
 
 * **No browsing history stored** – the `tabs` permission is used solely to read the URL of the active tab so we know when you're on LeetCode (Chrome's install prompt calls this "read your browsing history").
@@ -86,7 +85,5 @@ For iterative development use the Chrome Extension "Reload" button after edits.
 2. Delete any residual `.DS_Store` or the unused `icons/A/` folder if present.  
 3. Zip the **contents** of `leetcode-sync/`, not the folder itself.
 4. Upload zip to the Chrome Web Store dashboard → publish.
-
----
 
 Siddiha 
