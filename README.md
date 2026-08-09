@@ -80,8 +80,6 @@ For iterative development use the Chrome Extension "Reload" button after edits.
 * **NeetCode support** (planned)  
 * Auto-push on submission
 
----
-
 ## Packaging for release
 
 1. Ensure *only* the files listed above exist inside `leetcode-sync/` (no Markdown or dev assets).  
