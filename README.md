@@ -1,6 +1,6 @@
 # dotpush – Sync Your LeetCode to GitHub
 
-**Sitepush** is a Chrome extension that automatically pushes the code you write on LeetCode straight to a dedicated GitHub repository – keeping your portfolio up-to-date without any manual copy-paste.
+**Sitepush** is a Chrome extension that automatically pushes the code you write on LeetCode straight to a dedicated GitHub repository – keeping your portfolio up-to-date without any manual copy-paste
 
 ---
 
