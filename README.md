@@ -21,7 +21,7 @@
 3. Go through the one-time GitHub Device-Flow – copy the 8-character code and paste it on GitHub's page.
 4. Hit **PUSH TO GITHUB** – your solution appears in `https://github.com/&lt;you&gt;/code-sync` within seconds.
 
----
+
 
 ## Repository layout (this repo)
 
