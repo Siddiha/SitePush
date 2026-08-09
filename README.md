@@ -52,7 +52,6 @@ leetcode-sync/
 | **background.js** | Runs even when popup is closed – continues OAuth polling, switches toolbar icon per tab. |
 | **icons/** | Only two 128×128 PNGs required, Chrome downsizes them automatically. |
 
----
 
 ## Developer setup
 
