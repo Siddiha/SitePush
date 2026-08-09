@@ -66,7 +66,7 @@ $ cd dotpush/leetcode-sync
 
 For iterative development use the Chrome Extension "Reload" button after edits.
 
----
+
 
 ## Security & Privacy
 
